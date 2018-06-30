@@ -1,0 +1,17 @@
+form .input-group:first-child{
+	margin-bottom: 15px;
+}
+
+form .input-group .input-group-text{
+	width : 100px;
+}
+
+iframe{
+	width: 100%;
+	border: none;
+	height: 100vh;
+	overflow: hidden;
+}
+body{
+	overflow: hidden;
+}
